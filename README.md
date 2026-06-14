@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meesho Database Design Using MongoDB
 
 This project contains MongoDB collections for an e-commerce website.
@@ -12,3 +13,6 @@ Collections:
 7. Reviews
 
 Created as part of MCA MongoDB Assignment.
+=======
+# Meesho
+>>>>>>> 1204534762b9fd37c36e0b695483c97cd6bf3d0a

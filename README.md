@@ -12,7 +12,7 @@ Collections:
 6. Payments
 7. Reviews
 
-Created as part of MCA MongoDB Assignment.
+
 =======
 # Meesho
 >>>>>>> 1204534762b9fd37c36e0b695483c97cd6bf3d0a

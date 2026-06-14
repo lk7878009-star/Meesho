@@ -1,0 +1,8 @@
+[
+  {
+    "paymentId": 1,
+    "orderId": 1001,
+    "amount": 998,
+    "paymentMethod": "UPI"
+  }
+]

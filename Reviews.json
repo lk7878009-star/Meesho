@@ -1,0 +1,9 @@
+[
+  {
+    "reviewId": 1,
+    "userId": 1,
+    "productId": 101,
+    "rating": 5,
+    "comment": "Excellent Product"
+  }
+]
